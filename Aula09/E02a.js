@@ -1,7 +1,7 @@
-nomeFulano = "Carlos"
-nomeBeltrano = "Carlos"
+primeiroNome = "Carlos"
+segundoNome = "Amanda"
 
-mesmoNome = (nomeFulano == nomeBeltrano)
 function mesmoNome(primeiroNome, segundoNome) {
     return primeiroNome == segundoNome
 }
+mesmoNome();
